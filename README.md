@@ -35,17 +35,7 @@ weather-sql-project/
 
 ---
 
-## 🧱 Database Schema
 
-![Database Schema](https://via.placeholder.com/800x400.png?text=Add+Your+ER+Diagram+Here)
-
----
-
-## 📥 Sample Data Output
-
-![Output Screenshot](https://via.placeholder.com/800x400.png?text=Add+SQL+Output+Screenshot)
-
----
 
 ## ⚙️ How It Works
 
